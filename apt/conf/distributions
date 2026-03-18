@@ -1,0 +1,7 @@
+Origin: VillageOfGamers
+Label: key-debouncer
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: Key Debouncer apt repository
+Signwith: 704157E7B8EF08B065B2E43E1A488E7E9EB9479D
