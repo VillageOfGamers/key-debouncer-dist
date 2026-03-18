@@ -53,8 +53,13 @@ paru -S debounced
 
 ## Verifying the GPG Key
 
-You can verify the signing key fingerprint against the maintainer's GitHub profile at [github.com/Giantvince1](https://github.com/Giantvince1):
+You can verify the signing key fingerprint against the public key hosted at this repository:
 
+```
+https://villageofgamers.github.io/key-debouncer-dist/debounced-archive-keyring.asc
+```
+
+Expected fingerprint:
 ```
 704157E7B8EF08B065B2E43E1A488E7E9EB9479D
 ```
