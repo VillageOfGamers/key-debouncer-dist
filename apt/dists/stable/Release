@@ -1,0 +1,28 @@
+Origin: VillageOfGamers
+Label: key-debouncer
+Codename: stable
+Date: Wed, 18 Mar 2026 18:44:51 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Key Debouncer apt repository
+MD5Sum:
+ 9c52082a55c7c2005233004e172856c9 632 main/binary-amd64/Packages
+ a626fc6af2505b595a4181e3f141b449 453 main/binary-amd64/Packages.gz
+ 348f72179a579229e60283e11181cdb5 123 main/binary-amd64/Release
+ 16d097c3b9dfcf232fec40b5a5946d43 633 main/binary-arm64/Packages
+ 3c6c46067c69aff5123bbc9f661aed3f 453 main/binary-arm64/Packages.gz
+ 697702af43fed67ad613e8003a567a28 123 main/binary-arm64/Release
+SHA1:
+ 66133f508b5911e9548d915f306ad986b1bf3398 632 main/binary-amd64/Packages
+ 3a3378454617a9d822ae54d768b6d41d7cc16544 453 main/binary-amd64/Packages.gz
+ 62e7d73b68b43c4a20adfb034dfe15a860c92990 123 main/binary-amd64/Release
+ 3830a92cfa250b361c1b2e5118a03399d81e408b 633 main/binary-arm64/Packages
+ 64918a5af7424ae015a07c575e39f3daa2c70b99 453 main/binary-arm64/Packages.gz
+ e52fd400c4c45621dea85794afd6d7c3b558ad5f 123 main/binary-arm64/Release
+SHA256:
+ d7746335023a40f535fa5df585e0317b261e0e19d2d2fe70afc918af2fad465f 632 main/binary-amd64/Packages
+ a3a44ed7f190197d7605bd642514c666379b19b345e1155433351d746c25e7d7 453 main/binary-amd64/Packages.gz
+ bb2ef3346905171f3d2cee9b6f0830582cb12fca6f7161185971ce52ce97741a 123 main/binary-amd64/Release
+ 7c375b4f5d2ebd80fe5e3a13b79a383fd0cf6fd995aeb33421512546cbed1a55 633 main/binary-arm64/Packages
+ eb7357a8fd6de5e6814017f6d4532c3dd9e8278870049ba72a901536d4316a7c 453 main/binary-arm64/Packages.gz
+ 42acb25df2f0bd34282ba937b9f3a6fdfd5eddf67599eff0b26a181bc2821287 123 main/binary-arm64/Release

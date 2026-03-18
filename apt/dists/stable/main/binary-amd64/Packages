@@ -1,0 +1,17 @@
+Package: debounced
+Version: 2.0-1
+Architecture: amd64
+Maintainer: Vincent Meadows <giantvince1@protonmail.com>
+Installed-Size: 64
+Depends: libc6 (>= 2.38), libevdev2 (>= 0.9.1), systemd
+Homepage: https://github.com/VillageOfGamers/key-debouncer
+Priority: optional
+Section: utils
+Filename: pool/main/d/debounced/debounced_2.0-1_amd64.deb
+Size: 16868
+SHA256: 17f4261fc61e36738477bc40e1d1ba340994bf50fae127760df0d6f373e46b4b
+SHA1: d1d863b3675613cd3ef500f7c2b377ba570261b2
+MD5sum: 663d6ebe9fcf9fd62695f38721880982
+Description: Userspace keyboard debounce daemon
+ Simple daemon to debounce keyboard input and provide FlashTap features.
+

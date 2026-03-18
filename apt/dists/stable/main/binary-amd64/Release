@@ -1,0 +1,5 @@
+Component: main
+Origin: VillageOfGamers
+Label: key-debouncer
+Architecture: amd64
+Description: Key Debouncer apt repository
